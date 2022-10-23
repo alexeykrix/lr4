@@ -1,0 +1,15 @@
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\bin\Debug\net6.0\lr4.1.exe
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\bin\Debug\net6.0\lr4.1.deps.json
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\bin\Debug\net6.0\lr4.1.runtimeconfig.json
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\bin\Debug\net6.0\lr4.1.dll
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\bin\Debug\net6.0\lr4.1.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\lr4.1.csproj.AssemblyReference.cache
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\lr4.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\lr4.1.AssemblyInfoInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\lr4.1.AssemblyInfo.cs
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\lr4.1.csproj.CoreCompileInputs.cache
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\lr4.1.dll
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\refint\lr4.1.dll
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\lr4.1.pdb
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\lr4.1.genruntimeconfig.cache
+C:\Users\alexe\OneDrive\Рабочий стол\lr4\lr4\lr4.1\obj\Debug\net6.0\ref\lr4.1.dll
